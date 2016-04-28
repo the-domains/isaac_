@@ -2,6 +2,7 @@ name: isaac_
 favicon: null
 layout_spectrum: 0.7293358130846173
 typography_spectrum: 0.8637426719069481
+title: MyFirstGridSite
 cta:
   domain: null
   bucket: null
