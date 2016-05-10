@@ -1,29 +1,41 @@
-name: isaac_
-favicon: null
-layout_spectrum: 0.7293358130846173
-typography_spectrum: 0.8637426719069481
 title: MyFirstGridSite
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8050483
+  brandStrength: 0.4150634377729148
+  lightness: 0.6670464
+  brandColors:
+    - '#F6F402'
+    - '#1F1F1F'
+    - '#DCD900'
+    - '#666666'
+    - '#ADADAD'
+  rhythmicContrast: 0.9006445
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: isaac_
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.41506343777291477
-  lightness: 0.6670464449562132
-  saturation: 0.8086749690119177
-  rhythmicContrast: 0.5044062316883355
-purpose: []
+typography_spectrum: 0.8845327
+layout_spectrum: 1
